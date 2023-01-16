@@ -1,0 +1,11 @@
+<p> </p> Paragraf
+<b> </b> bold
+<i> </i> italic
+<u> </u> underline
+<ol> </ol> oredered list
+<ul> </ul> unodered list
+<dl> </dl> definition list
+<dd> </dd> definisi
+<dt> </dt> terminologi
+<li> </li> list item
+<a> </a> anchor
