@@ -1,0 +1,37 @@
+.hello:link {
+	color: orange;
+}
+
+.hello:hover {
+	color: green;
+	font-family: arial;
+	font-size: 50px;
+}
+
+.hello:active {
+	font-style: italic;
+}
+
+.hello:visited {
+	color: yellow;
+}
+
+li:first-child a {
+	color: yellow;
+}
+
+li:last-child a {
+	color: green;
+}
+
+li:nth-child(odd) a {
+	color: green;
+}
+
+li:nth-child(odd) a:hover {
+	color: yellow;
+}
+
+.p:first-of-type {
+	color: lightblue;
+}
