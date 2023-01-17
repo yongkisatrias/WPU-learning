@@ -1,2 +1,2 @@
 # WPU-learning
-Tahapan belajar web programming dari YouTube Web Programming UNPAS
+Tahapan belajar Front End Web Development dari YouTube Web Programming UNPAS
