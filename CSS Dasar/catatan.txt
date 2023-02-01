@@ -1,0 +1,35 @@
+font-family : jenis font
+font-size : ukuran font, satuan px
+font-variant : huruf awal besar
+font-stye : gaya font
+line-height : ukuran/jarak antar paragraf, ukuran px
+
+color : memberi warna pada tulisan
+text-align : mengatur format paragraf/teks (left, right, center, justify)
+text-indent : memberi indentasi pada paragraf/teks (px)
+text-decoration : mengatur dekorasi pada teks (none, underline, overline, line-through)
+text-transform : mengubag jenis huruf besar kecil (none, lowercase, uppercase, capitalize)
+letter-spacing : mengatur spasi antar huruf (normal, px)
+word-spasing : mengatur spasi antar kata
+
+background-color : warna background
+background-image : gambar background
+background-position : posisi background
+background-repeat : jenis pengulangan background
+
+pseudo-class
+:link : style pada link (href)
+:hover : style cursor diatas link
+:active : style ketika link di klik
+:visited : style link yang sudah pernah dikunjungi
+
+posisi elemen
+:first-child : elemen pertama
+:last-child : elemen terakhir
+:nth-child(n) : memili elemen dari sebua parent (urutan:1,2,3), pola (2n,3n+1,3n-1), ganjil(even), genap(odd)
+
+paragraf
+:first-of-type : memilih elemen pertama
+:last-of-type : memilih elemen terakhir
+
+inherit : agar child mengikuti parent
